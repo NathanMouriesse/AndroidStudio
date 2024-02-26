@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644191098323",
+    "project_id": "login-firebase-android-studio",
+    "storage_bucket": "login-firebase-android-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644191098323:android:f75507840c87d85a4e4b26",
+        "android_client_info": {
+          "package_name": "com.example.montp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXR9lPmr9mqCZDPI99Eu5adAjvd26_Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644191098323:android:972950dfb84dd84f4e4b26",
+        "android_client_info": {
+          "package_name": "com.example.tpandroidstudiofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXR9lPmr9mqCZDPI99Eu5adAjvd26_Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
